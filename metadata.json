@@ -1,0 +1,6 @@
+{
+  "name": "VaptPDF Privacy Policy",
+  "description": "Privacy policy page for the VaptPDF app, explaining offline capabilities and storage permissions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
